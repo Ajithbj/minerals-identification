@@ -1,1 +1,2 @@
 # minerals-identification
+The main aim is to obtain a capable prediction by the machine learning algorithmic characteristics, which can figure out if the target of the sound wave is either a rock or a mine or any other organism or any kind of other body.By using SONAR dataset and KNN techniques to identify the minerals and group them accordingly.Machine learning is performing a major role in improving the quality of detection of natural resources, and will tend be better in the future.
